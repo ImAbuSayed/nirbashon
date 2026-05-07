@@ -13,14 +13,17 @@
 | Lyric Writing Date | May 07, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/nirbashon/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [License this song: Nirbashon](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Commercial Licensing for Nirbashon](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> অচেনা এই অরণ্যে আমি খুঁজে ফিরি আলো
+> বুকের ভেতর প্রেমের আগুন জ্বলছে দেখো ভালো
+> নীরব এই রাতের শেষে নতুন কোনো ভোরে
+> হারিয়ে যাবো আমরা দুজন অচিন কোনো ঘোরে
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
