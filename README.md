@@ -10,10 +10,10 @@
 |-------|---------|
 | Title | Nirbashon |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 07, 2026 |
+| Lyric Writing Date | May 05, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/nirbashon/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Commercial Licensing for Nirbashon](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Get Permission to Use Nirbashon](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
