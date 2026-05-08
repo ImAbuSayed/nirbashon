@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Nirbashon
+
+This log tracks the cryptographic history and versioning for the song **Nirbashon** (nirbashon).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T16:09:03.615460 | `v1` | `c8652235c5bdeac4159d68e0daaff082d07f6a5f3214d1d8875a6bbed43c1aa7` | `df761018687024341fbfa9aece0f6b2988f924ea4009de126a37b3015204abf7` | `2026-05-08_nirbashon-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
